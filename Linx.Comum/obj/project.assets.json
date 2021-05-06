@@ -6047,11 +6047,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vinicius\\Desktop\\Linx_Api\\Linx.API\\Linx\\Linx.Comum\\Linx.Comum.csproj",
+      "projectUniqueName": "C:\\Users\\Vinicius\\Desktop\\Linx.Api\\Linx\\Linx.Comum\\Linx.Comum.csproj",
       "projectName": "Linx.Comum",
-      "projectPath": "C:\\Users\\Vinicius\\Desktop\\Linx_Api\\Linx.API\\Linx\\Linx.Comum\\Linx.Comum.csproj",
+      "projectPath": "C:\\Users\\Vinicius\\Desktop\\Linx.Api\\Linx\\Linx.Comum\\Linx.Comum.csproj",
       "packagesPath": "C:\\Users\\Vinicius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vinicius\\Desktop\\Linx_Api\\Linx.API\\Linx\\Linx.Comum\\obj\\",
+      "outputPath": "C:\\Users\\Vinicius\\Desktop\\Linx.Api\\Linx\\Linx.Comum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config",

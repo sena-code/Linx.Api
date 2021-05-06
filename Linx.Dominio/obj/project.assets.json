@@ -6014,11 +6014,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vinicius\\Desktop\\Linx_Api\\Linx.API\\Linx\\Linx.Dominio\\Linx.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\Vinicius\\Desktop\\Linx.Api\\Linx\\Linx.Dominio\\Linx.Dominio.csproj",
       "projectName": "Linx.Dominio",
-      "projectPath": "C:\\Users\\Vinicius\\Desktop\\Linx_Api\\Linx.API\\Linx\\Linx.Dominio\\Linx.Dominio.csproj",
+      "projectPath": "C:\\Users\\Vinicius\\Desktop\\Linx.Api\\Linx\\Linx.Dominio\\Linx.Dominio.csproj",
       "packagesPath": "C:\\Users\\Vinicius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vinicius\\Desktop\\Linx_Api\\Linx.API\\Linx\\Linx.Dominio\\obj\\",
+      "outputPath": "C:\\Users\\Vinicius\\Desktop\\Linx.Api\\Linx\\Linx.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config",

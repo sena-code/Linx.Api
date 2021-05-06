@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dZ4eGHidSeEJ6zFmI90h925JDWW6ZzT1T74j5o2lfAOh1dQguLwhmuKbhBu/i7Mcfb8QWHF45+fqz6/+1jSVdg==",
+  "dgSpecHash": "8nCy17wzbpKSw/RFgAucpqQn4pgzhAJguNbVD8DY9BE9WSixIK0pSjj3CULUPMp7GwB9fpbsRkGtVVKMqfJv6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vinicius\\Desktop\\Linx_Api\\Linx.API\\Linx\\Linx.Comum\\Linx.Comum.csproj",
+  "projectFilePath": "C:\\Users\\Vinicius\\Desktop\\Linx.Api\\Linx\\Linx.Comum\\Linx.Comum.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vinicius\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512",
     "C:\\Users\\Vinicius\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",

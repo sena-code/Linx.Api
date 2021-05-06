@@ -5831,11 +5831,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vinicius\\Desktop\\Linx_Api\\Linx.API\\Linx\\Linx.Infra.Data\\Linx.Infra.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Vinicius\\Desktop\\Linx.Api\\Linx\\Linx.Infra.Data\\Linx.Infra.Data.csproj",
       "projectName": "Linx.Infra.Data",
-      "projectPath": "C:\\Users\\Vinicius\\Desktop\\Linx_Api\\Linx.API\\Linx\\Linx.Infra.Data\\Linx.Infra.Data.csproj",
+      "projectPath": "C:\\Users\\Vinicius\\Desktop\\Linx.Api\\Linx\\Linx.Infra.Data\\Linx.Infra.Data.csproj",
       "packagesPath": "C:\\Users\\Vinicius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vinicius\\Desktop\\Linx_Api\\Linx.API\\Linx\\Linx.Infra.Data\\obj\\",
+      "outputPath": "C:\\Users\\Vinicius\\Desktop\\Linx.Api\\Linx\\Linx.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config",

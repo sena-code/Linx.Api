@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bBJ8e1FgQ+unhla5kyAcJYAmJujO1aufRmd9VES+wjfGg6pWipkPk7EaH+jR4ZfktmFRVxtsRx+AkcnCqFq/iw==",
+  "dgSpecHash": "mAJftxcNCcTKmcaLxl42bodkWLXwSEbMFnYVa9n8JKPth/ZQBnD145TQdLcYZY4BOVXjtGUZl4P7x6EOqlYLDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vinicius\\Desktop\\Linx_Api\\Linx.API\\Linx\\Linx.API\\Linx.API.csproj",
+  "projectFilePath": "C:\\Users\\Vinicius\\Desktop\\Linx.Api\\Linx\\Linx.API\\Linx.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vinicius\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512",
     "C:\\Users\\Vinicius\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

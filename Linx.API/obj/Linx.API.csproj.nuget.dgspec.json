@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vinicius\\Desktop\\Linx_Api\\Linx.API\\Linx\\Linx.API\\Linx.API.csproj": {}
+    "C:\\Users\\Vinicius\\Desktop\\Linx.Api\\Linx\\Linx.API\\Linx.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vinicius\\Desktop\\Linx_Api\\Linx.API\\Linx\\Linx.API\\Linx.API.csproj": {
+    "C:\\Users\\Vinicius\\Desktop\\Linx.Api\\Linx\\Linx.API\\Linx.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vinicius\\Desktop\\Linx_Api\\Linx.API\\Linx\\Linx.API\\Linx.API.csproj",
+        "projectUniqueName": "C:\\Users\\Vinicius\\Desktop\\Linx.Api\\Linx\\Linx.API\\Linx.API.csproj",
         "projectName": "Linx.API",
-        "projectPath": "C:\\Users\\Vinicius\\Desktop\\Linx_Api\\Linx.API\\Linx\\Linx.API\\Linx.API.csproj",
+        "projectPath": "C:\\Users\\Vinicius\\Desktop\\Linx.Api\\Linx\\Linx.API\\Linx.API.csproj",
         "packagesPath": "C:\\Users\\Vinicius\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vinicius\\Desktop\\Linx_Api\\Linx.API\\Linx\\Linx.API\\obj\\",
+        "outputPath": "C:\\Users\\Vinicius\\Desktop\\Linx.Api\\Linx\\Linx.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config",
